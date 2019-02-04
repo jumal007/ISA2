@@ -15,7 +15,7 @@ namespace ForLause
             public int Year { get; set; }
             public string Color { get; set; }
 
-            /*
+            
             public Car()
             {
                 // You could load from a configuration file,
@@ -30,7 +30,7 @@ namespace ForLause
                 Year = year;
                 Color = color;
             }
-            */
+            
 
             public static void MyMethod()
             {
