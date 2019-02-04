@@ -24,4 +24,25 @@ namespace L16
 
             }
         }
+        static void HelperMethod()
+        {
+            Console.WriteLine("Value of k from the HelperMethod(): " + k);
+        }
+
+    }
+
+    class Car
+    {
+        public void DoSomething()
+        {
+            Console.WriteLine(helperMethod());
+        }
+
+        private string helperMethod()
+        {
+            return "Hello world!";
+        }
+
+    }
+
 }
