@@ -1,0 +1,4 @@
+C:\Users\iljaf\OneDrive\Documents\TTU\2 semester\ISA2\ISA2\ISA2\ForLause\obj\Debug\netcoreapp2.1\ForLause.csprojAssemblyReference.cache
+C:\Users\iljaf\OneDrive\Documents\TTU\2 semester\ISA2\ISA2\ISA2\ForLause\obj\Debug\netcoreapp2.1\ForLause.csproj.CoreCompileInputs.cache
+C:\Users\iljaf\OneDrive\Documents\TTU\2 semester\ISA2\ISA2\ISA2\ForLause\obj\Debug\netcoreapp2.1\ForLause.AssemblyInfoInputs.cache
+C:\Users\iljaf\OneDrive\Documents\TTU\2 semester\ISA2\ISA2\ISA2\ForLause\obj\Debug\netcoreapp2.1\ForLause.AssemblyInfo.cs
