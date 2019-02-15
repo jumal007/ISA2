@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\iljaf\\OneDrive\\Documents\\TTU\\2 semester\\Infosüsteemide arendamine II\\ISA2\\L16\\L16.csproj",
+      "projectUniqueName": "C:\\Users\\iljaf\\OneDrive\\Documents\\TTU\\2 semester\\Infosusteemide arendamine II\\ISA2\\L16\\L16.csproj",
       "projectName": "L16",
-      "projectPath": "c:\\Users\\iljaf\\OneDrive\\Documents\\TTU\\2 semester\\Infosüsteemide arendamine II\\ISA2\\L16\\L16.csproj",
+      "projectPath": "C:\\Users\\iljaf\\OneDrive\\Documents\\TTU\\2 semester\\Infosusteemide arendamine II\\ISA2\\L16\\L16.csproj",
       "packagesPath": "C:\\Users\\iljaf\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\iljaf\\OneDrive\\Documents\\TTU\\2 semester\\Infosüsteemide arendamine II\\ISA2\\L16\\obj\\",
+      "outputPath": "C:\\Users\\iljaf\\OneDrive\\Documents\\TTU\\2 semester\\Infosusteemide arendamine II\\ISA2\\L16\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

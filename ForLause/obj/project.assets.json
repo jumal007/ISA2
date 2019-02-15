@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\iljaf\\OneDrive\\Documents\\TTU\\2 semester\\Infosüsteemide arendamine II\\ISA2\\ForLause\\ForLause.csproj",
+      "projectUniqueName": "C:\\Users\\iljaf\\OneDrive\\Documents\\TTU\\2 semester\\Infosusteemide arendamine II\\ISA2\\ForLause\\ForLause.csproj",
       "projectName": "ForLause",
-      "projectPath": "c:\\Users\\iljaf\\OneDrive\\Documents\\TTU\\2 semester\\Infosüsteemide arendamine II\\ISA2\\ForLause\\ForLause.csproj",
+      "projectPath": "C:\\Users\\iljaf\\OneDrive\\Documents\\TTU\\2 semester\\Infosusteemide arendamine II\\ISA2\\ForLause\\ForLause.csproj",
       "packagesPath": "C:\\Users\\iljaf\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\iljaf\\OneDrive\\Documents\\TTU\\2 semester\\Infosüsteemide arendamine II\\ISA2\\ForLause\\obj\\",
+      "outputPath": "C:\\Users\\iljaf\\OneDrive\\Documents\\TTU\\2 semester\\Infosusteemide arendamine II\\ISA2\\ForLause\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

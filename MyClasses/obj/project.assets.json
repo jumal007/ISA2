@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\iljaf\\OneDrive\\Documents\\TTU\\2 semester\\Infosüsteemide arendamine II\\ISA2\\MyClasses\\L18.csproj",
+      "projectUniqueName": "C:\\Users\\iljaf\\OneDrive\\Documents\\TTU\\2 semester\\Infosusteemide arendamine II\\ISA2\\MyClasses\\L18.csproj",
       "projectName": "L18",
-      "projectPath": "c:\\Users\\iljaf\\OneDrive\\Documents\\TTU\\2 semester\\Infosüsteemide arendamine II\\ISA2\\MyClasses\\L18.csproj",
+      "projectPath": "C:\\Users\\iljaf\\OneDrive\\Documents\\TTU\\2 semester\\Infosusteemide arendamine II\\ISA2\\MyClasses\\L18.csproj",
       "packagesPath": "C:\\Users\\iljaf\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\iljaf\\OneDrive\\Documents\\TTU\\2 semester\\Infosüsteemide arendamine II\\ISA2\\MyClasses\\obj\\",
+      "outputPath": "C:\\Users\\iljaf\\OneDrive\\Documents\\TTU\\2 semester\\Infosusteemide arendamine II\\ISA2\\MyClasses\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
