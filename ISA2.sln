@@ -36,6 +36,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "html", "html", "{91C14117-1
 		C9HTMLCode\Lesson09\Before\Lesson09.html = C9HTMLCode\Lesson09\Before\Lesson09.html
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "W3", "W3", "{F9948DC6-41F7-468F-8616-0192CCA1D305}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
