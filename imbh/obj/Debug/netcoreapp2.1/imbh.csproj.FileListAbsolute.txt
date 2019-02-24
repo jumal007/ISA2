@@ -30,3 +30,4 @@ C:\Users\iljaf\OneDrive\Documents\TTU\2 semester\Infosusteemide arendamine II\IS
 C:\Users\iljaf\OneDrive\Documents\TTU\2 semester\Infosusteemide arendamine II\ISA2\imbh\obj\Debug\netcoreapp2.1\imbh.dll
 C:\Users\iljaf\OneDrive\Documents\TTU\2 semester\Infosusteemide arendamine II\ISA2\imbh\obj\Debug\netcoreapp2.1\imbh.pdb
 C:\Users\iljaf\OneDrive\Documents\TTU\2 semester\Infosusteemide arendamine II\ISA2\imbh\obj\Debug\netcoreapp2.1\imbh.csproj.CopyComplete
+C:\Users\iljaf\OneDrive\Documents\TTU\2 semester\Infosusteemide arendamine II\ISA2\imbh\obj\Debug\netcoreapp2.1\Razor\Views\Test\MyView.g.cshtml.cs

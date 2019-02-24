@@ -12,5 +12,11 @@ namespace imbh.Controllers
         {
             return "Hello world!";
         }
+
+        public ActionResult GetView()
+        {
+            return View("MyView");
+        }
     }
+    
 }
