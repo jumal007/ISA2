@@ -1,0 +1,7 @@
+C:\Users\iljaf\OneDrive\Documents\TTU\2 semester\Infosusteemide arendamine II\ISA2\L23\bin\Debug\L23.exe.config
+C:\Users\iljaf\OneDrive\Documents\TTU\2 semester\Infosusteemide arendamine II\ISA2\L23\bin\Debug\L23.exe
+C:\Users\iljaf\OneDrive\Documents\TTU\2 semester\Infosusteemide arendamine II\ISA2\L23\bin\Debug\L23.pdb
+C:\Users\iljaf\OneDrive\Documents\TTU\2 semester\Infosusteemide arendamine II\ISA2\L23\obj\Debug\L23.csprojAssemblyReference.cache
+C:\Users\iljaf\OneDrive\Documents\TTU\2 semester\Infosusteemide arendamine II\ISA2\L23\obj\Debug\L23.csproj.CoreCompileInputs.cache
+C:\Users\iljaf\OneDrive\Documents\TTU\2 semester\Infosusteemide arendamine II\ISA2\L23\obj\Debug\L23.exe
+C:\Users\iljaf\OneDrive\Documents\TTU\2 semester\Infosusteemide arendamine II\ISA2\L23\obj\Debug\L23.pdb
