@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
+    using imbh.Models;
+    using Microsoft.AspNetCore.Mvc;
+    
 
 namespace imbh.Controllers
 {
@@ -15,8 +17,15 @@ namespace imbh.Controllers
 
         public ActionResult GetView()
         {
+            Employee emp = new Employee();
+            emp.FirstName = "Maria";
+            emp.LastName = "Tamm";
+            emp.Salary = 3274;
+            ViewBag.Employee = emp;
             return View("MyView");
+
         }
+
     }
     
 }
