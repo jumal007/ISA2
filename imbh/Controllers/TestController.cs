@@ -21,8 +21,7 @@ namespace imbh.Controllers
             emp.FirstName = "Maria";
             emp.LastName = "Tamm";
             emp.Salary = 3274;
-            ViewBag.Employee = emp;
-            return View("MyView");
+            return View("MyView", emp);
 
         }
 
