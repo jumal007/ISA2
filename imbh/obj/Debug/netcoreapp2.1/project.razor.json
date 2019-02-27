@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\iljaf\\OneDrive\\Documents\\TTU\\2 semester\\Infosusteemide arendamine II\\ISA2\\imbh\\imbh.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}

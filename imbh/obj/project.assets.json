@@ -4615,6 +4615,24 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "Core/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.dll": {}
+        }
+      },
+      "Facade/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Facade.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Facade.dll": {}
+        }
       }
     }
   },
@@ -12521,10 +12539,22 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "Core/1.0.0": {
+      "type": "project",
+      "path": "../Core/Core.csproj",
+      "msbuildProject": "../Core/Core.csproj"
+    },
+    "Facade/1.0.0": {
+      "type": "project",
+      "path": "../Facade/Facade.csproj",
+      "msbuildProject": "../Facade/Facade.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "Core >= 1.0.0",
+      "Facade >= 1.0.0",
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.AspNetCore.Razor.Design >= 2.1.2",
       "Microsoft.NETCore.App >= 2.1.0",
@@ -12560,7 +12590,14 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\iljaf\\OneDrive\\Documents\\TTU\\2 semester\\Infosusteemide arendamine II\\ISA2\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\iljaf\\OneDrive\\Documents\\TTU\\2 semester\\Infosusteemide arendamine II\\ISA2\\Core\\Core.csproj"
+            },
+            "C:\\Users\\iljaf\\OneDrive\\Documents\\TTU\\2 semester\\Infosusteemide arendamine II\\ISA2\\Facade\\Facade.csproj": {
+              "projectPath": "C:\\Users\\iljaf\\OneDrive\\Documents\\TTU\\2 semester\\Infosusteemide arendamine II\\ISA2\\Facade\\Facade.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

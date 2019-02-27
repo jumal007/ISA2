@@ -5,7 +5,6 @@ using System.Threading.Tasks;
     using imbh.Models;
     using Microsoft.AspNetCore.Mvc;
     
-
 namespace imbh.Controllers
 {
     public class TestController : Controller
@@ -20,10 +19,14 @@ namespace imbh.Controllers
             Employee emp = new Employee();
             emp.FirstName = "Maria";
             emp.LastName = "Tamm";
-            emp.Salary = 3274;
+            emp.Salary = 3415;
             return View("MyView", emp);
 
         }
+            
+            
+
+       
 
     }
     
