@@ -16,7 +16,7 @@ namespace ContosoUniversity.Controllers
         private readonly SchoolContext _context;
 
         public InstructorsController(SchoolContext context)
-        {e
+        {
             _context = context;
         }
 
